@@ -17,4 +17,3 @@ My research interests include:
 - Resource-efficient deep learning algorithms
 
 
-You can reach me at:  ahmadomar [at] iut [dash] dhaka [dot] edu
