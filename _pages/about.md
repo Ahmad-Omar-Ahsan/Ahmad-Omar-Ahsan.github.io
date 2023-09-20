@@ -13,8 +13,8 @@ Hi there. I'm a computer science graduate who used to work as an AI engineer at 
 My research interests include:
 
 - Deep Learning in Medical Imaging
-- Deep learning for vision, audio and graphs.
-- Hyperbolic deep learning
+- Deep Learning for Vision, Audio and Graphs.
+- Hyperbolic Deep Learning
 
 
 
