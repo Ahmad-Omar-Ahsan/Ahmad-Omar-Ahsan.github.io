@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm a computer science graduate who used to work as an AI engineer at Intelligent Machines. I obtained my CS Bachelor's degree from the Islamic University of Technology (IUT), in March 2021. Currently I am working as a research fellow at Fatima Fellowship 2022 for the group "Hyperbolic Geometry for Computer Vision".
+Hi there. I'm a computer science graduate who used to work as an AI engineer at Intelligent Machines. I obtained my CSE Bachelor's degree from the Islamic University of Technology (IUT), in March 2021. Currently I am working as a research fellow at Fatima Fellowship 2022 for the group "Hyperbolic Geometry for Computer Vision".
 
 My research interests include:
 
+- Deep Learning in Medical Imaging
 - Deep learning for vision, audio and graphs.
 - Hyperbolic deep learning
-- Resource-efficient deep learning algorithms
+
 
 
