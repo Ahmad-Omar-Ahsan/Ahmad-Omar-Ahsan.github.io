@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ahmad Omar Ahsan"
 title_separator          : "-"
 name                     : &name "Ahmad Omar Ahsan"
-description              : &description "Prospective graduate student | Fatima Fellow 2022 | Former AI Engineer at Intelligent Machines"
+description              : &description "Graduate Student| Fatima Fellow 2022 | Former AI Engineer at Intelligent Machines"
 url                      : https://Ahmad-Omar-Ahsan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ahmad-Omar-Ahsan/Ahmad-Omar-Ahsan.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=otUxjzYAAAAJ&hl=en"
-  email            : "ahmadomar@iut-dhaka.edu"
+  email            : "ahmad.omar@ucalgary.ca"
   researchgate     : "https://www.researchgate.net/profile/Ahmad-Ahsan-2"
   uri              :
   bitbucket        :
